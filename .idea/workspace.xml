@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c816c6f-ee55-4073-8927-ca32e9fd7288" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m0O91DSm0AUEaL5wrLZZder86b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app5">
+    <configuration name="app2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10_apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10_apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10_apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10_apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app5" />
+        <item itemvalue="Python.app4" />
+        <item itemvalue="Python.app3" />
+        <item itemvalue="Python.app2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c816c6f-ee55-4073-8927-ca32e9fd7288" name="Default Changelist" comment="" />
+      <created>1608626888077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608626888077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="266" width="600" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608670678796">
+      <screen x="67" y="27" width="1853" height="879" />
+    </state>
+    <state x="688" y="266" width="600" height="398" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.879@67.27.1853.879" timestamp="1608670678796" />
+    <state x="1021" y="205" width="426" height="486" key="FileChooserDialogImpl" timestamp="1608752052846">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state x="1021" y="205" width="426" height="486" key="FileChooserDialogImpl/67.27.1853.1077@67.27.1853.1077" timestamp="1608752052846" />
+    <state width="1830" height="367" key="GridCell.Tab.0.bottom" timestamp="1608753699779">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="367" key="GridCell.Tab.0.bottom/67.27.1853.1077@67.27.1853.1077" timestamp="1608753699779" />
+    <state width="1830" height="285" key="GridCell.Tab.0.bottom/67.27.1853.879@67.27.1853.879" timestamp="1608671299052" />
+    <state width="1830" height="367" key="GridCell.Tab.0.center" timestamp="1608753699779">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="367" key="GridCell.Tab.0.center/67.27.1853.1077@67.27.1853.1077" timestamp="1608753699779" />
+    <state width="1830" height="285" key="GridCell.Tab.0.center/67.27.1853.879@67.27.1853.879" timestamp="1608671299052" />
+    <state width="1830" height="367" key="GridCell.Tab.0.left" timestamp="1608753699778">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="367" key="GridCell.Tab.0.left/67.27.1853.1077@67.27.1853.1077" timestamp="1608753699778" />
+    <state width="1830" height="285" key="GridCell.Tab.0.left/67.27.1853.879@67.27.1853.879" timestamp="1608671299052" />
+    <state width="1830" height="367" key="GridCell.Tab.0.right" timestamp="1608753699779">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="367" key="GridCell.Tab.0.right/67.27.1853.1077@67.27.1853.1077" timestamp="1608753699779" />
+    <state width="1830" height="285" key="GridCell.Tab.0.right/67.27.1853.879@67.27.1853.879" timestamp="1608671299052" />
+    <state width="1830" height="352" key="GridCell.Tab.1.bottom" timestamp="1608752277252">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="352" key="GridCell.Tab.1.bottom/67.27.1853.1077@67.27.1853.1077" timestamp="1608752277252" />
+    <state width="1830" height="352" key="GridCell.Tab.1.center" timestamp="1608752277251">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="352" key="GridCell.Tab.1.center/67.27.1853.1077@67.27.1853.1077" timestamp="1608752277251" />
+    <state width="1830" height="352" key="GridCell.Tab.1.left" timestamp="1608752277251">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="352" key="GridCell.Tab.1.left/67.27.1853.1077@67.27.1853.1077" timestamp="1608752277251" />
+    <state width="1830" height="352" key="GridCell.Tab.1.right" timestamp="1608752277251">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state width="1830" height="352" key="GridCell.Tab.1.right/67.27.1853.1077@67.27.1853.1077" timestamp="1608752277251" />
+    <state x="732" y="83" key="SettingsEditor" timestamp="1608752054839">
+      <screen x="67" y="27" width="1853" height="1077" />
+    </state>
+    <state x="732" y="83" key="SettingsEditor/67.27.1853.1077@67.27.1853.1077" timestamp="1608752054839" />
+    <state x="732" y="73" key="SettingsEditor/67.27.1853.879@67.27.1853.879" timestamp="1608669805261" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1608671299159">
+      <screen x="67" y="27" width="1853" height="879" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/67.27.1853.879@67.27.1853.879" timestamp="1608671299159" />
+  </component>
+</project>
